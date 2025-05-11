@@ -1,0 +1,1055 @@
+body{
+
+background-color: rgb(0, 0, 0);
+
+
+}
+
+img{
+
+padding: 19px;
+
+
+}
+
+.oman{
+
+    
+    padding-left: 300px;
+    margin-bottom:-9px;
+    margin-top:-55px; 
+} 
+
+
+
+.oman input {
+    color: aliceblue;
+    width: 450px;
+    height: 40px;
+    border-radius: 19px;
+    text-align: center;
+    background-color: rgb(13, 13, 13);
+    border:none;
+    margin-bottom:-1px;
+   position:relative;
+
+}
+
+.new{
+
+    border:none;
+    width: 340px;
+    height: 550px;
+    margin-top:-50px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: rgb(14, 13, 13);
+    margin-left:5px;
+
+}
+
+.new a{
+margin-top: 90px;
+color: rgb(255, 255, 255);
+text-decoration: none;
+font-size: 18px;
+align-items: right;
+
+}
+
+.new a:hover {
+    color: green;
+    align-items:center;
+    
+    
+}
+
+.new ul{
+
+margin-top:5px;
+padding: 49px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding-top:130px;
+
+}
+
+.new li{
+
+    text-align: center;
+    margin-top:50px;
+    list-style-type: none;
+    margin-top:30px;
+    padding:5px;
+    text-decoration: none;
+    
+}
+
+
+.sonu{
+text-align: center;
+border: none;
+width: 955px;
+height: 550px;
+margin-left: 355px;
+margin-top:-570px;
+border-radius: 20px;
+background-color: rgb(14, 13, 13);
+list-style-type:none;
+}
+
+.sonu {
+
+
+color: rgb(246, 251, 255);
+text-decoration: none;
+font-size: 18px;
+position: relative;
+list-style: none;
+
+
+}
+
+
+.sonu {
+
+list-style-type: none;
+position: relative;
+text-align: left;
+
+}
+
+
+
+.sonu h1{
+
+    margin-left: 100px;
+    padding-right:50px;
+    font-size:20px;
+    padding-top: 20px;
+}
+
+.sonu h2{
+
+    position: absolute;
+    margin-left:20px;
+    margin-top:-40px;
+    font-size:20px;
+}
+
+.sonu h3{
+     
+    margin-left: 210px;
+    margin-top:-39px;
+font-size: 20px; 
+
+}
+
+
+.new h1{
+
+color: aliceblue;
+font-size: 15px;
+margin-left: 20px;
+padding-top: 20px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+.new h2{
+
+    color: aliceblue;
+    font-size: 20px;
+    margin-left:240px;
+    margin-top:-25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    }
+
+   
+.noman{
+
+    
+    text-align: center;
+
+    width: 60px;
+    height:35px;
+    margin-left:370px;
+    margin-top:-550px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    list-style-type:none;
+    position: relative;
+    
+}
+.noman h1{
+    
+    margin-top:20px;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 5px;
+    
+}
+.eman{
+
+    
+    text-align: center;
+
+    width:80px;
+    height:35px;
+    margin-left:450px;
+    margin-top:-56px;
+    border-radius: 20px;
+    background-color: rgb(57, 57, 57);
+    list-style-type:none;
+    position: relative;
+    
+}
+
+
+.eman h1{
+color: rgb(143, 140, 140);
+    margin-top:20px;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top:5px;
+    
+}
+.eman :hover{
+    background-color: rgb(95, 95, 95);
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    height: 30px;
+}
+.ayan{
+
+    
+    text-align: center;
+
+    width:100px;
+    height:35px;
+    margin-left:240px;
+    margin-top:-56px;
+    border-radius: 20px;
+    background-color: rgb(33, 33, 33);
+    list-style-type:none;
+    position: relative; 
+
+}
+.ayan h1{
+    color: rgb(180, 184, 184);
+    margin-top:20px;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.ayan :hover{
+  
+    color: rgb(216, 217, 218);
+    background-color: rgb(58, 59, 59);
+    width: 100px;
+    border-radius: 20px;
+    height:30px;
+    
+
+
+}
+.lui{
+
+    
+    text-align: center;
+
+    width:90px;
+    height:35px;
+    margin-top:2px;
+    margin-left:015px;
+    border-radius: 20px;
+    background-color: rgb(33, 33, 33);
+    list-style-type:none;
+    position: relative;
+    text-align: center;
+
+}
+.lui :hover{
+
+color:white;
+
+background-color: rgb(58, 60, 60);
+width:90px;
+border-radius: 20px;
+height:30px;
+
+}
+
+.lui h1{
+    text-align: center;
+    color: rgb(179, 179, 179);
+    margin-top:20px;
+    font-size:19px;
+    font-family:'Courier New', Courier,;
+    padding-top: 5px;
+    
+}
+
+.luna{
+
+    
+    text-align: center;
+
+    width:75px;
+    height:35px;
+    margin-top:-55px;
+    margin-left:110px;
+    border-radius: 20px;
+    background-color: rgb(33, 33, 33);
+    list-style-type:none;
+    position: relative;
+    
+
+}
+
+.luna h1{
+    text-align: center;
+    color: rgb(171, 171, 171);
+    margin-top:20px;
+    font-size:19px;
+    font-family:'Courier New', Courier,;
+    padding-top: 5px;
+    
+}
+
+.luna :hover{
+
+    color:white;
+
+    background-color: rgb(58, 60, 60);
+    width:75px;
+    border-radius: 20px;
+    height:30px;
+    
+}
+
+.van{
+
+    
+    text-align: center;
+
+    width:110px;
+    height:33px;
+    margin-left:550px;
+    margin-top:-110px;
+    border-radius: 20px;
+    background-color: rgb(70, 69, 69);
+    list-style-type:none;
+    position: relative;
+    text-align: center;
+}
+
+.van h1{
+
+    color: rgb(170, 171, 171);
+    margin-top:20px;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 5px;
+    
+}
+.van a{
+
+text-decoration: none;
+
+}
+
+.van :hover{
+
+background-color: rgb(132, 130, 130);
+width:110px;
+height:30px;
+border-radius:20px;
+color: white;
+
+}
+
+
+
+.op{
+
+    text-align: center;
+    
+    width:290px;
+    height:53px;
+    margin-left:9px;
+    margin-top:10px;
+    border-radius:0px;
+    list-style-type:none;
+    position: relative;
+    text-align: center;
+
+}
+.op :hover{
+
+color: green;
+
+}
+.op h1{
+   
+    margin-right: 50px;
+    color: rgb(170, 171, 171);
+    margin-top:90px;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium',;
+    padding-top:-200px;
+    
+}
+
+.op h3{  color: rgb(170, 171, 171);
+    margin-top:-20px;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium',;
+    padding-top:5.2px;
+     margin-left:20px;
+     font-size:15px;
+    }
+
+
+
+    .op h3 img{
+
+width:20px;
+margin-left:-50px;
+margin-top:-20px;
+position:absolute;
+margin-left:-45px;
+
+    }
+    .os{
+
+        text-align: center;
+        
+        width:290px;
+        height:53px;
+        margin-left:9px;
+        margin-top:-70px;
+        border-radius:0px;
+        list-style-type:none;
+        position: relative;
+        text-align: center;
+    
+    }
+    .os :hover{
+    
+    color: green;
+    
+    }
+
+.os a{
+
+text-decoration: none;
+
+}
+
+    .os h1{
+       
+        margin-right:65px;
+        color: rgb(170, 171, 171);
+        margin-top:90px;
+        font-size:20px;
+        font-family:'Franklin Gothic Medium',;
+        padding-top:-200px;
+        
+    }
+    
+    .os h3{  color: rgb(170, 171, 171);
+        margin-top:-20px;
+        font-size:20px;
+        font-family:'Franklin Gothic Medium',;
+        padding-top:5.2px;
+         margin-left:20px;
+         font-size:15px;
+        }
+    
+    
+    
+        .os h3 img{
+    
+    width:20px;
+    margin-left:-50px;
+    margin-top:-20px;
+    position:absolute;
+    margin-left:-45px;
+    
+        }
+
+        .an{
+
+            text-align: center;
+            
+            width:290px;
+            height:53px;
+            margin-left:9px;
+            margin-top:-60px;
+            border-radius:0px;
+            list-style-type:none;
+            position: relative;
+            text-align: center;
+        
+        }
+        .an :hover{
+        
+        color: green;
+        
+        }
+
+.an a{
+
+    text-decoration: none;
+
+}
+
+
+        .an h1{
+
+           list-style-type: none;
+            margin-right:50px;
+            color: rgb(170, 171, 171);
+            margin-top:90px;
+            font-size:20px;
+            font-family:'Franklin Gothic Medium',;
+            padding-top:-200px;
+            
+        }
+        
+        .an h3{  color: rgb(170, 171, 171);
+            margin-top:-20px;
+            font-size:20px;
+            font-family:'Franklin Gothic Medium',;
+            padding-top:5.2px;
+             margin-left:-40px;
+             font-size:15px;
+            }
+        
+        
+        
+            .an h3 img{
+        
+        width:20px;
+        margin-left:-40px;
+        margin-top:-20px;
+        position:absolute;
+        margin-left:-45px;
+        
+            }
+
+
+            .ok{
+
+                text-align: center;
+                background-color: rgb(26, 25, 25);
+                width:165px;
+                height:50px;
+                margin-left:410px;
+                margin-top:-520px;
+                border-bottom-right-radius: 9px;
+                border-top-right-radius:9px;
+                list-style-type:none;
+                position: relative;
+                text-align: center;
+            
+            }
+            .ok :hover{
+                background-color: rgb(52, 52, 52);
+             color: rgb(255, 255, 255);
+             height:40px;
+             width: 144px;
+                
+            }
+            .ok h1{
+               
+                margin-right:-60px;
+                color: rgb(170, 171, 171);
+                margin-top:90px;
+                font-size:20px;
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                padding-top:11px;
+                text-align:left;
+                position: relative;
+                padding-left:20px;
+                
+            }
+            
+            .ko h3{  color: rgb(170, 171, 171);
+                margin-top:-20px;
+                font-size:20px;
+                font-family:'Franklin Gothic Medium',;
+                padding-top:1px;
+                 margin-left:25px;
+                 font-size:15px;
+                 position: absolute;
+
+                }
+                
+                .ko h3 img{
+                border-top-left-radius:30px;
+                border-bottom-left-radius:30px;
+
+                }
+                .ok{
+
+                    text-align: center;
+                    background-color: rgb(26, 25, 25);
+                    width:165px;
+                    height:50px;
+                    margin-left:410px;
+                    margin-top:-520px;
+                    border-radius:12px;
+                    list-style-type:none;
+                    position: relative;
+                    text-align: center;
+                
+                }
+                .ok :hover{
+                    background-color: rgb(52, 52, 52);
+                 color: rgb(255, 255, 255);
+                 border-bottom-right-radius: 9px;
+                            border-top-right-radius:9px;
+                 height:39px;
+                 width: 144px;
+                    
+                }
+
+
+                .ok a {
+
+                      text-decoration:none;
+
+                }
+
+
+                .ok h1{
+                   
+                    margin-right:-60px;
+                    color: rgb(170, 171, 171);
+                    margin-top:90px;
+                    font-size:20px;
+                    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    padding-top:11px;
+                    text-align:left;
+                    position: relative;
+                    padding-left:35px;
+                    
+                }
+                
+                .ko h3{  color: rgb(170, 171, 171);
+                    margin-top:-20px;
+                    font-size:20px;
+                    font-family:'Franklin Gothic Medium',;
+                    padding-top:1px;
+                     margin-left:25px;
+                     font-size:15px;
+                     position: absolute;
+    
+                    }
+                    
+                    .ko h3 img{
+                    border-top-left-radius:30px;
+                    border-bottom-left-radius:30px;
+    
+                    }
+                
+
+
+
+
+
+
+
+
+
+                    .cen{
+
+                        text-align: center;
+                        background-color: rgb(26, 25, 25);
+                        width:165px;
+                        height:52px;
+                        margin-left:630px;
+                        margin-top:-51px;
+                        border-bottom-right-radius: 9px;
+                            border-top-right-radius:9px;
+                        list-style-type:none;
+                        position: absolute;
+                        text-align: center;
+                    
+                    }
+                    .cen :hover{
+                        background-color: rgb(52, 52, 52);
+                     color: rgb(255, 255, 255);
+                     border-bottom-right-radius: 9px;
+                     border-top-right-radius:9px;
+                     height:40px;
+                     width: 138px;
+                        
+                    }
+
+
+                    .cen a{
+                        
+                        text-decoration: none;
+                    
+                    }
+                    .cen h1{
+                       
+                        margin-right:-60px;
+                        color: rgb(170, 171, 171);
+                        margin-top:-1px;
+                        font-size:20px;
+                        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                        padding-top:11px;
+                        text-align:left;
+                        position: relative;
+                        padding-left:28px;
+                        
+                    }
+                    
+                    .cee h3{  color: rgb(170, 171, 171);
+                        margin-top:-21px;
+                        font-size:20px;
+                        font-family:'Franklin Gothic Medium',;
+                        padding-top:1px;
+                         font-size:15px;
+                         position: absolute;
+                         margin-left: -10px;
+        
+                        }
+                        
+                        .cee h3 img{
+                            
+                        border-top-left-radius:30px;
+                        border-bottom-left-radius:30px;
+                        position: relative;
+                        }
+    
+
+
+
+
+
+
+
+            
+
+
+
+                        .ap{
+
+                            text-align: center;
+                            background-color: rgb(26, 25, 25);
+                            width:165px;
+                            height:51px;
+                            margin-left:850px;
+                            margin-top:-51px;
+                            border-bottom-right-radius: 9px;
+                            border-top-right-radius:9px;
+                            list-style-type:none;
+                            position: absolute;
+                            text-align: center;
+                        
+                        }
+                        .ap :hover{
+                            background-color: rgb(52, 52, 52);
+                         color: rgb(255, 255, 255);
+                         border-bottom-right-radius: 9px;
+                         border-top-right-radius:9px;
+                         height:42px;
+                         width: 138px;
+                            
+                        }
+
+                        .ap a{
+                      
+                             text-decoration: none;
+
+                        }
+
+
+                        .ap h1{
+                           
+                            margin-right:-60px;
+                            color: rgb(170, 171, 171);
+                            margin-top:-1px;
+                            font-size:20px;
+                            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                            padding-top:11px;
+                            text-align:left;
+                            position: relative;
+                            padding-left:28px;
+                            
+                        }
+                        
+                        .mm h3{  color: rgb(170, 171, 171);
+                            margin-top:5px;
+                            font-size:20px;
+                            font-family:'Franklin Gothic Medium',;
+                            padding-top:-1px;
+                             font-size:15px;
+                             position: absolute;
+                             margin-left:-30PX;
+            
+                            }
+                            
+                            .mm h3 img{
+                                
+                            border-top-left-radius:30px;
+                            border-bottom-left-radius:30px;
+                            position: relative;
+                            }
+        
+
+
+
+
+
+
+
+
+
+
+
+
+                            .sab{
+
+                                text-align: center;
+                                background-color: rgb(26, 25, 25);
+                                width:160px;
+                                height:51px;
+                                margin-left:1085px;
+                                margin-top:-51px;
+                                border-bottom-right-radius: 9px;
+                                border-top-right-radius:9px;
+                                list-style-type:none;
+                                position: absolute;
+                                text-align: center;
+                            
+                            }
+                            .sab :hover{
+                                background-color: rgb(52, 52, 52);
+                             color: rgb(255, 255, 255);
+                             border-bottom-right-radius: 9px;
+                             border-top-right-radius:9px;
+                             height:42px;
+                             width: 130px;
+                                
+                            }
+
+.sab a{
+
+text-decoration: none;
+
+}
+
+                            .sab h1{
+                               
+                                margin-right:-60px;
+                                color: rgb(170, 171, 171);
+                                margin-top:-1px;
+                                font-size:20px;
+                                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                                padding-top:11px;
+                                text-align:left;
+                                position: relative;
+                                padding-left:28px;
+                                
+                            }
+                            
+                            .bb h3{  color: rgb(170, 171, 171);
+                                margin-top:5px;
+                                font-size:20px;
+                                font-family:'Franklin Gothic Medium',;
+                                padding-top:-1px;
+                                 font-size:15px;
+                                 position: absolute;
+                                 margin-left:190PX;
+                
+                                }
+                                
+                                .bb h3 img{
+                                    
+                                border-top-left-radius:30px;
+                                border-bottom-left-radius:30px;
+                                position: relative;
+                                }
+            
+
+                               
+                                .qq {
+
+                                   border-radius: 12px;
+                                   background-color: rgb(14, 13, 13);
+                                    border:none;
+                                    position: absolute;
+                                    width: 230px;
+                                    height: 275px;
+                                    margin-left:370px;
+                                    margin-top: 90PX;
+
+                                }
+
+
+                                .qq:hover{
+                                background-color: rgb(21, 21, 20);
+                                width: 230px; 
+                                height: 285px;
+                                
+                                
+                                }
+                                .qq h3 {
+                                    color: aliceblue;
+                                }
+                                
+                                .hh h3{
+                                    color: aliceblue;
+                                    margin-left: 420px;
+                                  position: absolute;
+                                    font-size:15px ;
+                                    margin-top:10px;
+                                    width: 100PX;
+                                }
+
+                                .hh h1{
+                                    width: 500PX;
+                                    margin-top: 35px;
+                                    color: aliceblue;
+                                    margin-left: 405px;
+                                    position: absolute;
+                                    
+                                }
+
+                                .hh a{
+                                    
+
+                                text-decoration:none;
+                                
+
+                                }
+                                .hh a :hover{
+                                    
+                                    text-decoration:underline;
+                                 color: rgb(255, 255, 255);
+
+                                }
+
+
+
+
+
+
+                                .kk h1{
+
+                                margin-left: 350px;
+                                position: relative;
+                            
+
+                                }
+                            
+                                .kk h1 img{
+                                    
+                                    margin-top:-19px;
+                                    width: 200px;
+
+                                }
+                                .kk h2 {
+                                    color: aliceblue;
+                                    margin-left: 400px;
+                                    font-size:15px;
+                                    position: relative;
+                                    
+                                }
+
+                                 
+                                .ll {
+
+                                    border-radius: 12px;
+                                    background-color: rgb(14, 13, 13);
+                                     border:none;
+                                     position: relative;
+                                     width: 230px;
+                                     height: 275px;
+                                     margin-left:620px;
+                                     margin-top: -278PX;
+ 
+                                 }
+
+                                 .ll :hover{
+                                    background-color: rgb(39, 39, 39);
+                                    height: 240px;
+                                    border-radius: 12px;
+
+
+
+                                 }
+                                 .oo {
+
+                                    border-radius: 12px;
+                                    background-color: rgb(14, 13, 13);
+                                     border:none;
+                                     position: absolute;
+                                     width: 230px;
+                                     height: 275px;
+                                     margin-left:600px;
+                                     margin-top: 90PX;
+ 
+                                 }
+ 
+ 
+                                 .oo:hover{
+                                 background-color: rgb(21, 21, 20);
+                                 width: 230px; 
+                                 height: 275px;
+                                 }
+
+                                 
+                                  .pp{
+
+                                    border-radius: 12px;
+                                    background-color: rgb(14, 13, 13);
+                                     border:none;
+                                     position: absolute;
+                                     width: 230px;
+                                     height: 275px;
+                                     margin-left:835px;
+                                     margin-top:90PX;
+ 
+                                 }
+ 
+ 
+                                 .pp:hover{
+                                 background-color: rgb(21, 21, 20);
+                                 width: 230px; 
+                                 height: 275px;
+                                 }
+
+
+                                   .cc{
+
+                                    border-radius: 12px;
+                                    background-color: rgb(14, 13, 13);
+                                     border:none;
+                                     position: absolute;
+                                     width: 230px;
+                                     height: 275px;
+                                     margin-left:1070px;
+                                     margin-top:90PX;
+ 
+                                 }
+ 
+ 
+                                 .cc:hover{
+                                 background-color: rgb(21, 21, 20);
+                                 width: 230px; 
+                                 height: 275px;
+                                 }
+
+                                
+
+                               
